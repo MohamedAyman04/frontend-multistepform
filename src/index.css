@@ -1,4 +1,10 @@
 body,
 html {
-  background-color: hsl(217, 100%, 97%);
+}
+
+.MuiStepConnector-root {
+  display: none;
+}
+.MuiStepLabel-labelContainer {
+  font-size: 2rem;
 }
