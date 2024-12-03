@@ -11,8 +11,12 @@ due to some flight delays that happened.
 
 If the position is still open, I would be delighted to discuss how I can contribute to your projects.
 
-Here is my contact information.
+Here is my contact information
+
+
 email: mohikel6@gmail.com
+
+
 phone number: +201000177578
 
 Thank you for your time and consideration. I look forward to your response.
