@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>hello there this is my first app</h1>
+      <h1>Love you all guys and wish you the best.</h1>
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Navbar />
